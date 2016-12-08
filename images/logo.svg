@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="34" cy="34" r="34"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-454.000000, -333.000000)">
+            <g id="Group" transform="translate(454.000000, 333.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" fill="#D80217" xlink:href="#path-1"></use>
+                <polygon id="Path-2" fill="#FFFFFF" mask="url(#mask-2)" points="1.00537109 51.0961914 34.2527047 0.5 64 49.1107807 25.2007117 49.051599 31.8017418 37.7182895 41.4235628 37.6252896 35.0530678 25.1463901 11.0620117 62.2514648"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
